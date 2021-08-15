@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: from lxml import etree
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9488#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 14 Aug 2021 19:45:21 UTC
+record: -1
